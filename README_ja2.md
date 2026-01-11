@@ -1,16 +1,14 @@
-# minecraft_remote_samples / Naohiro2g
+# プロジェクト名
 
-Minecraft Remote（マイクラリモコン）のAPIを使いPythonでユーザーコードを書く出発点
+プロジェクト内容
 ***
-9期生 13番 白栁湊一朗
+このドキュメントは、Reveal.jsに対応しています。
 
 --
 
 ## このリポジトリの内容
 
-Python環境をゼロから構築、コードを書いてマイクラ世界に自動建築するまでのガイド。Pythonがすでに動いている人は最短距離で。
-
-Python入門、Python開発入門として利用可能。
+何をするものか
 
 --
 
